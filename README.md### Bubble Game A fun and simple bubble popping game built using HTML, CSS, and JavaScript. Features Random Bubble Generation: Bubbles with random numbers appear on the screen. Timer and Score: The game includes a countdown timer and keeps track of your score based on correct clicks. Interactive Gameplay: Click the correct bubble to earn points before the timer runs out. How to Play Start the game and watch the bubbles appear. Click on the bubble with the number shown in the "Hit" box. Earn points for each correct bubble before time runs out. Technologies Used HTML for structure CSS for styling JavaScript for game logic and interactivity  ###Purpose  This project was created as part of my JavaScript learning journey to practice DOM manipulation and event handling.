@@ -1,0 +1,20 @@
+### Bubble Game
+A fun and simple bubble popping game built using HTML, CSS, and JavaScript.
+
+#Features
+Random Bubble Generation: Bubbles with random numbers appear on the screen.
+Timer and Score: The game includes a countdown timer and keeps track of your score based on correct clicks.
+Interactive Gameplay: Click the correct bubble to earn points before the timer runs out.
+
+##How to Play
+Start the game and watch the bubbles appear.
+Click on the bubble with the number shown in the "Hit" box.
+Earn points for each correct bubble before time runs out.
+
+##Technologies Used
+      -HTML for structure
+      -CSS for styling
+      -JavaScript for game logic and interactivity
+
+###Purpose
+This project was created as part of my JavaScript learning journey to practice DOM manipulation and event handling.
